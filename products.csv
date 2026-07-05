@@ -1,0 +1,141 @@
+product_id,product_name,category,sub_category,unit_price,cost_price
+1,Headphones Classic,Electronics,Headphones,2845.89,2033.88
+2,Headphones Pro,Electronics,Headphones,1537.56,952.11
+3,Headphones Lite,Electronics,Headphones,1666.99,1229.38
+4,Headphones Plus,Electronics,Headphones,3734.11,2138.04
+5,Smartwatch Classic,Electronics,Smartwatch,4122.6,2613.1
+6,Smartwatch Pro,Electronics,Smartwatch,3922.85,2850.94
+7,Smartwatch Lite,Electronics,Smartwatch,470.97,278.45
+8,Smartwatch Plus,Electronics,Smartwatch,863.12,480.51
+9,Bluetooth Speaker Classic,Electronics,Bluetooth Speaker,3148.81,2174.75
+10,Bluetooth Speaker Pro,Electronics,Bluetooth Speaker,622.91,434.86
+11,Bluetooth Speaker Lite,Electronics,Bluetooth Speaker,2249.42,1342.61
+12,Bluetooth Speaker Plus,Electronics,Bluetooth Speaker,1398.44,1010.72
+13,Power Bank Classic,Electronics,Power Bank,658.64,428.63
+14,Power Bank Pro,Electronics,Power Bank,1729.61,1233.48
+15,Power Bank Lite,Electronics,Power Bank,3763.98,2310.26
+16,Power Bank Plus,Electronics,Power Bank,3149.42,2155.8
+17,Laptop Bag Classic,Electronics,Laptop Bag,1874.06,1143.84
+18,Laptop Bag Pro,Electronics,Laptop Bag,1058.0,721.6
+19,Laptop Bag Lite,Electronics,Laptop Bag,1415.8,863.78
+20,Laptop Bag Plus,Electronics,Laptop Bag,679.41,502.56
+21,Mouse Classic,Electronics,Mouse,4445.68,3255.64
+22,Mouse Pro,Electronics,Mouse,3278.57,2083.33
+23,Mouse Lite,Electronics,Mouse,2678.86,1994.3
+24,Mouse Plus,Electronics,Mouse,4730.3,3236.8
+25,Keyboard Classic,Electronics,Keyboard,4013.7,2463.4
+26,Keyboard Pro,Electronics,Keyboard,2314.09,1341.81
+27,Keyboard Lite,Electronics,Keyboard,2130.72,1493.39
+28,Keyboard Plus,Electronics,Keyboard,2577.19,1855.24
+29,T-Shirt Classic,Clothing,T-Shirt,1110.99,768.27
+30,T-Shirt Pro,Clothing,T-Shirt,2474.6,1813.75
+31,T-Shirt Lite,Clothing,T-Shirt,1817.44,1351.37
+32,T-Shirt Plus,Clothing,T-Shirt,1803.67,1040.39
+33,Jeans Classic,Clothing,Jeans,954.72,563.92
+34,Jeans Pro,Clothing,Jeans,2045.11,1502.02
+35,Jeans Lite,Clothing,Jeans,2586.26,1470.27
+36,Jeans Plus,Clothing,Jeans,2255.38,1326.38
+37,Jacket Classic,Clothing,Jacket,1023.85,701.07
+38,Jacket Pro,Clothing,Jacket,1926.89,1396.46
+39,Jacket Lite,Clothing,Jacket,807.04,566.82
+40,Jacket Plus,Clothing,Jacket,2254.62,1492.04
+41,Kurta Classic,Clothing,Kurta,1593.36,1153.42
+42,Kurta Pro,Clothing,Kurta,1198.0,888.2
+43,Kurta Lite,Clothing,Kurta,340.4,251.02
+44,Kurta Plus,Clothing,Kurta,2896.61,1661.1
+45,Saree Classic,Clothing,Saree,2997.84,1935.96
+46,Saree Pro,Clothing,Saree,954.0,640.02
+47,Saree Lite,Clothing,Saree,851.19,623.94
+48,Saree Plus,Clothing,Saree,1789.61,1261.86
+49,Sneakers Classic,Clothing,Sneakers,1326.79,871.34
+50,Sneakers Pro,Clothing,Sneakers,1269.0,764.33
+51,Sneakers Lite,Clothing,Sneakers,1683.6,1093.42
+52,Sneakers Plus,Clothing,Sneakers,565.24,421.82
+53,Formal Shirt Classic,Clothing,Formal Shirt,1566.62,1124.75
+54,Formal Shirt Pro,Clothing,Formal Shirt,2767.69,1727.43
+55,Formal Shirt Lite,Clothing,Formal Shirt,1416.61,938.51
+56,Formal Shirt Plus,Clothing,Formal Shirt,896.44,519.2
+57,Mixer Grinder Classic,Home & Kitchen,Mixer Grinder,1226.9,904.17
+58,Mixer Grinder Pro,Home & Kitchen,Mixer Grinder,2420.79,1533.61
+59,Mixer Grinder Lite,Home & Kitchen,Mixer Grinder,820.54,505.43
+60,Mixer Grinder Plus,Home & Kitchen,Mixer Grinder,1673.4,1199.28
+61,Cookware Set Classic,Home & Kitchen,Cookware Set,2121.38,1444.49
+62,Cookware Set Pro,Home & Kitchen,Cookware Set,2817.17,1694.43
+63,Cookware Set Lite,Home & Kitchen,Cookware Set,3329.97,2475.17
+64,Cookware Set Plus,Home & Kitchen,Cookware Set,2655.35,1720.98
+65,Bedsheet Classic,Home & Kitchen,Bedsheet,879.88,623.83
+66,Bedsheet Pro,Home & Kitchen,Bedsheet,883.75,613.38
+67,Bedsheet Lite,Home & Kitchen,Bedsheet,2080.19,1525.57
+68,Bedsheet Plus,Home & Kitchen,Bedsheet,2282.01,1548.03
+69,Table Lamp Classic,Home & Kitchen,Table Lamp,469.25,261.26
+70,Table Lamp Pro,Home & Kitchen,Table Lamp,3424.12,2530.55
+71,Table Lamp Lite,Home & Kitchen,Table Lamp,2754.81,1936.27
+72,Table Lamp Plus,Home & Kitchen,Table Lamp,1795.47,1290.06
+73,Storage Box Classic,Home & Kitchen,Storage Box,1116.88,772.25
+74,Storage Box Pro,Home & Kitchen,Storage Box,283.28,184.46
+75,Storage Box Lite,Home & Kitchen,Storage Box,1648.5,1110.38
+76,Storage Box Plus,Home & Kitchen,Storage Box,2749.33,1851.13
+77,Curtains Classic,Home & Kitchen,Curtains,2061.02,1334.66
+78,Curtains Pro,Home & Kitchen,Curtains,273.8,180.8
+79,Curtains Lite,Home & Kitchen,Curtains,293.44,192.46
+80,Curtains Plus,Home & Kitchen,Curtains,1279.28,953.7
+81,Face Wash Classic,Beauty & Personal Care,Face Wash,180.71,128.78
+82,Face Wash Pro,Beauty & Personal Care,Face Wash,1395.96,992.85
+83,Face Wash Lite,Beauty & Personal Care,Face Wash,1832.08,1046.86
+84,Face Wash Plus,Beauty & Personal Care,Face Wash,327.18,189.69
+85,Shampoo Classic,Beauty & Personal Care,Shampoo,504.07,330.31
+86,Shampoo Pro,Beauty & Personal Care,Shampoo,1657.15,1000.03
+87,Shampoo Lite,Beauty & Personal Care,Shampoo,883.26,551.69
+88,Shampoo Plus,Beauty & Personal Care,Shampoo,900.15,596.8
+89,Perfume Classic,Beauty & Personal Care,Perfume,1980.93,1178.99
+90,Perfume Pro,Beauty & Personal Care,Perfume,1414.48,1017.82
+91,Perfume Lite,Beauty & Personal Care,Perfume,1358.41,980.29
+92,Perfume Plus,Beauty & Personal Care,Perfume,1554.23,883.89
+93,Trimmer Classic,Beauty & Personal Care,Trimmer,850.64,561.88
+94,Trimmer Pro,Beauty & Personal Care,Trimmer,252.81,139.52
+95,Trimmer Lite,Beauty & Personal Care,Trimmer,466.06,302.93
+96,Trimmer Plus,Beauty & Personal Care,Trimmer,951.73,672.75
+97,Skincare Kit Classic,Beauty & Personal Care,Skincare Kit,1195.83,862.9
+98,Skincare Kit Pro,Beauty & Personal Care,Skincare Kit,325.42,213.36
+99,Skincare Kit Lite,Beauty & Personal Care,Skincare Kit,227.72,134.87
+100,Skincare Kit Plus,Beauty & Personal Care,Skincare Kit,1755.02,1276.8
+101,Yoga Mat Classic,Sports & Fitness,Yoga Mat,1820.6,1018.28
+102,Yoga Mat Pro,Sports & Fitness,Yoga Mat,536.91,394.69
+103,Yoga Mat Lite,Sports & Fitness,Yoga Mat,3176.8,2105.27
+104,Yoga Mat Plus,Sports & Fitness,Yoga Mat,404.29,297.46
+105,Dumbbell Set Classic,Sports & Fitness,Dumbbell Set,1305.35,968.95
+106,Dumbbell Set Pro,Sports & Fitness,Dumbbell Set,2177.52,1525.25
+107,Dumbbell Set Lite,Sports & Fitness,Dumbbell Set,2579.68,1624.32
+108,Dumbbell Set Plus,Sports & Fitness,Dumbbell Set,545.2,317.57
+109,Cricket Bat Classic,Sports & Fitness,Cricket Bat,1068.51,766.05
+110,Cricket Bat Pro,Sports & Fitness,Cricket Bat,1544.3,1126.27
+111,Cricket Bat Lite,Sports & Fitness,Cricket Bat,1360.54,953.9
+112,Cricket Bat Plus,Sports & Fitness,Cricket Bat,746.84,558.41
+113,Running Shoes Classic,Sports & Fitness,Running Shoes,2616.32,1701.02
+114,Running Shoes Pro,Sports & Fitness,Running Shoes,3416.83,1915.95
+115,Running Shoes Lite,Sports & Fitness,Running Shoes,1697.68,1218.48
+116,Running Shoes Plus,Sports & Fitness,Running Shoes,1388.9,977.51
+117,Resistance Band Classic,Sports & Fitness,Resistance Band,3354.55,2111.15
+118,Resistance Band Pro,Sports & Fitness,Resistance Band,2774.38,1542.35
+119,Resistance Band Lite,Sports & Fitness,Resistance Band,1173.65,878.5
+120,Resistance Band Plus,Sports & Fitness,Resistance Band,1868.93,1160.91
+121,Novel Classic,Books & Stationery,Novel,946.03,602.02
+122,Novel Pro,Books & Stationery,Novel,710.73,484.81
+123,Novel Lite,Books & Stationery,Novel,176.12,118.66
+124,Novel Plus,Books & Stationery,Novel,817.25,566.05
+125,Notebook Set Classic,Books & Stationery,Notebook Set,172.83,100.39
+126,Notebook Set Pro,Books & Stationery,Notebook Set,739.51,500.49
+127,Notebook Set Lite,Books & Stationery,Notebook Set,764.69,469.01
+128,Notebook Set Plus,Books & Stationery,Notebook Set,194.9,107.4
+129,Pen Set Classic,Books & Stationery,Pen Set,376.44,234.14
+130,Pen Set Pro,Books & Stationery,Pen Set,341.79,197.04
+131,Pen Set Lite,Books & Stationery,Pen Set,267.65,171.23
+132,Pen Set Plus,Books & Stationery,Pen Set,598.27,377.87
+133,Planner Classic,Books & Stationery,Planner,122.64,76.13
+134,Planner Pro,Books & Stationery,Planner,182.76,122.38
+135,Planner Lite,Books & Stationery,Planner,390.99,245.17
+136,Planner Plus,Books & Stationery,Planner,361.66,226.96
+137,Textbook Classic,Books & Stationery,Textbook,175.23,127.96
+138,Textbook Pro,Books & Stationery,Textbook,913.69,681.28
+139,Textbook Lite,Books & Stationery,Textbook,613.76,358.38
+140,Textbook Plus,Books & Stationery,Textbook,441.66,255.18
