@@ -121,7 +121,7 @@ included in [`analysis_queries.sql`](analysis_queries.sql).
 ## How to run
 
 1. Run [`schema_mysql.sql`](schema_mysql.sql) in MySQL to create the database and tables.
-2. Load the CSVs (`customers.csv`, `products.csv`, `orders.csv`, `order_items.csv`) using
+2. Load the CSVs (`data/customers.csv`, `data/products.csv`, `data/orders.csv`, `data/order_items.csv`) using
    `LOAD DATA LOCAL INFILE` — customers and products first, then orders, then order_items (foreign
    key order matters).
 3. Run the queries in `analysis_queries.sql`.
