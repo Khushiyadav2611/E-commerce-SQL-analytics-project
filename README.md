@@ -132,4 +132,4 @@ included in [`analysis_queries.sql`](analysis_queries.sql).
 |---|---|
 | `schema_mysql.sql` | Table definitions |
 | `analysis_queries.sql` | All business-question SQL queries |
-| `customers.csv`, `products.csv`, `orders.csv`, `order_items.csv` | Raw data tables |
+| `data/customers.csv`, `data/products.csv`, `data/orders.csv`, `data/order_items.csv` | Raw data tables |
